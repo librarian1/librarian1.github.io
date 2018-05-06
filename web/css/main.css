@@ -1,0 +1,33 @@
+body{
+	background-image: url(../img/22.jpg);
+}
+/*主体*/
+.main{
+	margin-top: 5%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	background-color: rgba(248,248,255,0.7);
+	width: 600px;
+	border-radius: 10%;	
+	text-align: center;
+}
+table{
+	border-color: darkseagreen;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+td{
+	width: 250px;
+}
+.button{
+	margin: 40px;
+	color: white;
+	background-color: #FF7F50;
+	border-radius: 15%;
+	border-style: outset;
+	width: 120px;
+	height: 40px;
+	font-size: 20px;
+}

@@ -1,0 +1,57 @@
+body{
+	background-image: url(../img/22.jpg);
+}
+/*主体*/
+.main{
+	/*margin-top: 4%;*/
+	margin-left: auto;
+	margin-right: auto;
+}
+h1{
+	text-align: center;
+	font-size: 70px;
+	color: pink;
+	font-family: "隶书";
+}
+.main-bottom{
+	border-radius: 15%;
+	padding-top: 5px;
+	text-align: center;    
+	background-color: rgba(248,248,255,0.7);
+	width: 430px;
+	height: 450px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.form-group{
+	margin-top: 3px;
+	font-family: "宋体";
+	font-weight: 800;
+	color: hotpink;
+}
+.form-control{
+	background-color: #FFA07A;
+	color: white;
+}
+.button{
+	color: white;
+	background-color: #FF7F50;
+	border-radius: 10%;
+	border-style: outset;
+	width: 120px;
+	height: 40px;
+	font-size: 20px;
+}
+.upload_media{
+	margin: 12px;
+	color: white;
+	background-color: #FF7F50;
+	border-radius: 10%;
+	border-style: outset;
+}
+button{
+	color: white;
+	background-color: #FF7F50;
+	border-radius: 10%;
+	border-style: outset;
+}
